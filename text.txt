@@ -1,1 +1,3 @@
 Este es mi primer repositorio de Git.
+
+Esta es la modificación del archivo text.txt desde la rama branch1.
